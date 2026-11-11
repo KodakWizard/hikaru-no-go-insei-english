@@ -1,4 +1,4 @@
-Hikaru no Go translation handover checkpoint
+Hikaru no Go translation project checkpoint
 Local snapshot UTC: 2026-11-11T00:46:10+00:00
-Archive: Hikaru-no-Go-private-handover.zip
+Archive: Hikaru_no_Go_Insei_Choujou_Kessen_English_v20_Project_Archive.zip
 SHA256: 6fc4d8cc5c2356aada5c96c87d622dabed11fdac0352486cba408c5469ea2274
